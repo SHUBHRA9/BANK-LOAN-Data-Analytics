@@ -1,6 +1,3 @@
-# BANK-LOAN-Data-Analytics-
-
-
 # Bank Loan Report Data Analytics Dashboard
 
 ## Overview
